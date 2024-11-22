@@ -49,7 +49,7 @@ def menu():
                 remover_tarefa(numero)
             except ValueError:
                 print("Por favor, insira um número válido.")
-        elif escolha == "4":
+        elif escolha == "7":
             print("Saindo...")
             break
         else:
